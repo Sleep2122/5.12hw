@@ -1,0 +1,15 @@
+D:\C#\5.12HW\5.12HW\bin\Debug\net6.0\5.12HW.exe
+D:\C#\5.12HW\5.12HW\bin\Debug\net6.0\5.12HW.deps.json
+D:\C#\5.12HW\5.12HW\bin\Debug\net6.0\5.12HW.runtimeconfig.json
+D:\C#\5.12HW\5.12HW\bin\Debug\net6.0\5.12HW.dll
+D:\C#\5.12HW\5.12HW\bin\Debug\net6.0\5.12HW.pdb
+D:\C#\5.12HW\5.12HW\obj\Debug\net6.0\5.12HW.csproj.AssemblyReference.cache
+D:\C#\5.12HW\5.12HW\obj\Debug\net6.0\5.12HW.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\5.12HW\5.12HW\obj\Debug\net6.0\5.12HW.AssemblyInfoInputs.cache
+D:\C#\5.12HW\5.12HW\obj\Debug\net6.0\5.12HW.AssemblyInfo.cs
+D:\C#\5.12HW\5.12HW\obj\Debug\net6.0\5.12HW.csproj.CoreCompileInputs.cache
+D:\C#\5.12HW\5.12HW\obj\Debug\net6.0\5.12HW.dll
+D:\C#\5.12HW\5.12HW\obj\Debug\net6.0\refint\5.12HW.dll
+D:\C#\5.12HW\5.12HW\obj\Debug\net6.0\5.12HW.pdb
+D:\C#\5.12HW\5.12HW\obj\Debug\net6.0\5.12HW.genruntimeconfig.cache
+D:\C#\5.12HW\5.12HW\obj\Debug\net6.0\ref\5.12HW.dll
